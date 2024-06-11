@@ -60,9 +60,9 @@ const languages = {
     
     // "id": id,                   // Bahasa Indonesia: has no translator anymore, and theres too much untranslated text now
     
-    // uncomment joke languages when we have >30 regular langs to hide them
-    // "uwu": uwu,
-    // "test": test,
+    // Joke Languages
+    "uwu": uwu,                    // Uwu (i regret adding this comment (i'm an anti-furry) )
+    "test": test,                  // Test
 };
 // add languages that are RTL here
 const rtlLanguages = [
